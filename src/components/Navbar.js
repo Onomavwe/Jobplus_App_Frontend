@@ -21,7 +21,7 @@ const useStyles = makeStyles((theme) => ({
     //migrate to theme.js
     width: "900px",
     margin: "0 auto",
-    border: "1px yellow dotted",
+    // border: "1px yellow dotted",
   },
   iconsWrap: {
     marginLeft: "auto",
